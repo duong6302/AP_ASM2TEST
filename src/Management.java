@@ -1,7 +1,7 @@
 public interface Management {
-    void view();
-    void search();
-    void add();
-    void edit();
-    void delete();
+   public void view();
+   public void search();
+   public void add();
+   public void edit();
+   public void delete();
 }
